@@ -8,7 +8,7 @@ A desktop Hangman game built with Python and Tkinter. Pick a difficulty, guess l
 
 ![Hangman Game](https://raw.githubusercontent.com/krishpathak28/Hangman/master/preview.png)
 
-> *Screenshot placeholder — add your own by taking a screenshot of the running game and uploading it to the repo.*
+
 
 ---
 
