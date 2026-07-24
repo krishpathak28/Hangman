@@ -18,7 +18,7 @@ A desktop Hangman game built with Python and Tkinter. Pick a difficulty, guess l
 - Letter-by-letter guessing or full word guessing
 - Live hangman drawing that builds with each incorrect guess (6 attempts)
 - Tracks and displays all incorrect letters guessed
-- Clean GUI built entirely with Tkinter — no browser required
+- Clean GUI built entirely with Tkinter (no browser required)
 
 ---
 
@@ -56,7 +56,7 @@ cd Hangman
 python main.py
 ```
 
-No additional packages needed — the project uses only Python's standard library.
+No additional packages needed, the project uses only Python's standard library.
 
 ---
 
@@ -84,10 +84,10 @@ Guessing the full word incorrectly ends the game immediately.
 
 ## Built With
 
-- **Python 3** — core logic
-- **Tkinter** — GUI framework
-- **ttk.Combobox** — difficulty selector
-- **tkinter.Canvas** — hangman drawing
+- **Python 3** → core logic
+- **Tkinter** → GUI framework
+- **ttk.Combobox** → difficulty selector
+- **tkinter.Canvas** → hangman drawing
 
 ---
 
